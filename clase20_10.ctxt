@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=clase20_10
+comment1.params=
+comment1.target=clase20_10()
+comment2.params=argsa
+comment2.target=void\ main(java.lang.String[])
+comment3.params=numero
+comment3.target=java.lang.String\ primo(int)
+numComments=4

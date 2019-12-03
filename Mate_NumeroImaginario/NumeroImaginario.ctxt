@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=NumeroImaginario
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ NumeroImaginario\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=NumeroImaginario()
+comment2.params=real\ imaginario
+comment2.target=NumeroImaginario(double,\ double)
+comment3.params=
+comment3.target=double\ getParteReal()
+comment4.params=
+comment4.target=double\ getParteImaginaria()
+comment5.params=real
+comment5.target=void\ setParteReal(double)
+comment6.params=imaginaria
+comment6.target=void\ setParteImaginaria(double)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=imcremento
+comment8.target=void\ imcrementarR(double)
+numComments=9

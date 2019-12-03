@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=InvertirArre
+comment1.params=arre
+comment1.target=java.lang.String[]\ invertir(java.lang.String[])
+comment1.text=public\ static\ void\ main(String\ []\ args){\r\n\ \ \ \ \ \ \ \ InvertirArre\ arr\=new\ InvertirArre();\r\n\ \ \ \ \ \ \ \ Scanner\ sc\=new\ Scanner(System.in);\r\n\ \ \ \ \ \ \ \ System.out.println("T\ del\ arreglo");\r\n\ \ \ \ \ \ \ \ int\ t\=sc.nextInt();\r\n\ \ \ \ \ \ \ \ String\ []\ text\=new\ String\ [t];\r\n\ \ \ \ \ \ \ \ System.out.println(t);\r\n\ \ \ \ \ \ \ \ for(int\ i\=0;i<t;i++){\r\n\ \ \ \ \ \ \ \ \ \ \ \ System.out.println("poc\:"+i);\r\n\ \ \ \ \ \ \ \ \ \ \ \ text[i]\=sc.nextLine();}\r\n\ \ \ \ \ \ \ \ \ \ \ \ System.out.println("no\ invertido");\r\n\ \ \ \ \ \ \ \ for(int\ i\=0;i<t;i++)\r\n\ \ \ \ \ \ \ \ \ \ \ \ System.out.println(text[i]);\r\n\ \ \ \ \ \ \ \ text\=arr.invertir(text);\r\n\ \ \ \ \ \ \ \ System.out.println("invertido");\r\n\ \ \ \ \ \ \ \ for(int\ i\=0;i<t;i++)\r\n\ \ \ \ \ \ \ \ \ \ \ \ System.out.println(text[i]);\r\n}
+numComments=2
